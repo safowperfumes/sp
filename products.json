@@ -21,7 +21,7 @@
     "price_100": "600 جنيه",
     "emoji": "🖤",
     "desc": "أيقونة أرماني الطازجة، يفتح على البرغموت البحري وقلب من الياسمين وقاعدة خشبية مائية.",
-    "image": "images/placeholder.jpg"
+    "image": "images/aquadigio.jpg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "price_100": "600 جنيه",
     "emoji": "🖤",
     "desc": "عطر باكو رابان المنتصر يجمع الجريب فروت والبحر مع الخشب والمسك، حيوي وقوي.",
-    "image": "images/placeholder.jpg"
+    "image": "images/invictus.jpg"
   },
   {
     "id": 4,
@@ -92,7 +92,7 @@
     "price_100": "600 جنيه",
     "emoji": "🖤",
     "desc": "عطر لوبو جان بول الخيالي يجمع التوت البري مع الأزهار البيضاء والمسك الخشبي.",
-    "image": "images/placeholder.jpg"
+    "image": "images/imagination.jpg"
   },
   {
     "id": 9,
@@ -104,7 +104,7 @@
     "price_100": "600 جنيه",
     "emoji": "💙",
     "desc": "أيقونة شانيل الزمنية، يجمع الجريب فروت والياسمين مع اللبان والصندل الأبيض.",
-    "image": "images/placeholder.jpg"
+    "image": "images/bluedechannel.jpg"
   },
   {
     "id": 10,
@@ -116,7 +116,7 @@
     "price_100": "600 جنيه",
     "emoji": "🖤",
     "desc": "عطر شرقي حسي بنفحات التبغ والعود، من أشهر العطور الرجالية الكلاسيكية.",
-    "image": "images/armani_code.jpg"
+    "image": "images/boidimperial.jpg"
   },
   {
     "id": 11,
@@ -128,7 +128,7 @@
     "price_100": "600 جنيه",
     "emoji": "🖤",
     "desc": "عطر شرقي مستوحى من رائحة العود بعد التقطير، عميق ومعقد بنفحات من المسك والعنبر.",
-    "image": "images/placeholder.jpg"
+    "image": "images/khamrah.jpg"
   },
   {
     "id": 12,
@@ -140,7 +140,7 @@
     "price_100": "600 جنيه",
     "emoji": "🖤",
     "desc": "عطر دانهيل الرجالي يجمع القرنفل والمسك مع الخشب الدافئ، رجولي وعميق.",
-    "image": "images/placeholder.jpg"
+    "image": "images/dunhildesire.jpg"
   },
   {
     "id": 13,
