@@ -1,15 +1,15 @@
 // ═══════════════════════════════════════════════
-//  عطور الجنوب — Southern Perfumes
+//  عطور صفو — Safow Perfumes
 //  script.js  |  All website logic
 // ═══════════════════════════════════════════════
 
 // ── CONFIG ──
-const WHATSAPP_NUMBER = "201141910181";
-const FACEBOOK_URL    = "https://www.facebook.com/people/%D8%B9%D8%B7%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8/100094129415952/";
+const WHATSAPP_NUMBER = "201212963688";
+const FACEBOOK_URL    = "https://www.facebook.com/share/1SkmqWocrg/?mibextid=wwXIfr";
 const WA_BASE         = `https://wa.me/${WHATSAPP_NUMBER}?text=`;
 
-const LOAD_STEP = 15;
-let visibleCount = 15;
+const LOAD_STEP = 5;
+let visibleCount = 5;
 
 // ── STATE ──
 let allProducts    = [];
