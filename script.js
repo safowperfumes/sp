@@ -5,7 +5,7 @@
 
 // ── CONFIG ──
 const WHATSAPP_NUMBER = "201212963688";
-const FACEBOOK_URL    = "https://www.facebook.com/share/1SkmqWocrg/?mibextid=wwXIfr";
+const FACEBOOK_URL    = "https://www.facebook.com/share/19Rjp9dYLM/";
 const WA_BASE         = `https://wa.me/${WHATSAPP_NUMBER}?text=`;
 
 const LOAD_STEP = 5;
